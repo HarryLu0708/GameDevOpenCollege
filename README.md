@@ -1,2 +1,3 @@
-# GameDevOpenCollege
-A Collection of Game Dev Ope Courses
+# Page 1
+
+how to&#x20;
